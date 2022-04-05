@@ -9,6 +9,7 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
+import resumeData from "./resumeData.json"
 
 class App extends Component {
 
@@ -19,8 +20,8 @@ class App extends Component {
       resumeData: {}
     };
 
-    ReactGA.initialize('UA-110570651-1');
-    ReactGA.pageview(window.location.pathname);
+    // ReactGA.initialize('UA-110570651-1');
+    // ReactGA.pageview(window.location.pathname);
 
   }
 
@@ -40,7 +41,9 @@ class App extends Component {
   }
 
   componentDidMount(){
-    this.getResumeData();
+    this.setState({resumeData: resumeData});
+
+    // this.getResumeData();
   }
 
   render() {
