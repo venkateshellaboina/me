@@ -14,8 +14,6 @@
       "state": "VA",
       "zip": "24060"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "linkedin",
@@ -61,13 +59,13 @@
         "company": "SS&C Eze, India",
         "title": "Software Engineering Intern",
         "years": "February 2019 - May 2019",
-        "description": "I was a member of the Connectivity Framework Team. Assisted in the creation of Adapters. A framework to make it easier for hedge funds to share their holdings with affiliated institutions. The major programming language was C#."
+        "description": "I was a member of the Connectivity Framework Team. Assisted in the creation of Adapters. A framework to make it easier for hedge funds to share their holdings with affiliated institutions. The major programming language was C#.Participated in training's and gained application architecture expertise to better comprehend the workings of a fin-tech product called Portfolio management system."
       },
       {
         "company": "Rauzr Inc, India",
         "title": "Full Stack Developer Intern",
         "years": "May 2018 - July 2018",
-        "description": "Using the MERN stack, I created a Listing Service for trainers and tutors. I worked on a geolocation system for tracking and visualizing locations."
+        "description": "Using the MERN stack, I created a Listing Service for trainers and tutors. Developed the application end to end with 2 other developers. The features include Authorization, Authentication, creation of User interfaces, testing, development of Back-end APIs and Database management."
       }
     ],
     "skills": [
@@ -116,6 +114,12 @@
         "category": "Technology",
         "image": "Bizconnect.png",
         "url": "https://github.com/venkateshellaboina/BizConnect"
+      },
+      {
+        "title": "Song genre prediction",
+        "category": "Technology",
+        "image": "songgenre.png",
+        "url": "https://github.com/venkateshellaboina/Song-Genre-Prediction"
       }
     ]
   },
