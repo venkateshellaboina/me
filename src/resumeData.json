@@ -4,7 +4,7 @@
     "occupation": "Graduate Student at Virginia Tech, Majoring in CS. Looking for Software Engineering Intern and Full-time opportunities.",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "I've been working on web technologies for the past two years as a web enthusiast, having expertise from a multiple companies and development stacks. I've worked on every level of the software development life cycle, from scratch to production deployment. Aside from course work, I occasionally participate in hackathons, with one of my proudest achievements being picked as one of the top five participants in the AWS Serverless hackathon. I spend my free time photographing and editing. You may also follow me on Instagram to see what I'm up to.  ",
+    "bio": "As a web enthusiast, I've been working on web technologies for the past two years , having expertise from a multiple companies and development stacks. I've worked on every level of the software development life cycle, from scratch to production deployment. Aside from course work, I occasionally participate in hackathons, with one of my proudest achievements being picked as one of the top five participants in the AWS Serverless hackathon. I spend my free time photographing and editing. You may also follow me on Instagram to see what I'm up to.  ",
     "contactmessage": "Get in touch with me.",
     "email": "venkatesh[at]vt[dot]edu",
     "phone": "540[dash]824[dash]8711",
@@ -22,7 +22,7 @@
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/venx.sh",
+        "url": "http://instagram.com/lucidclick",
         "className": "fa fa-instagram"
       },
       {
