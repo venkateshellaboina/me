@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Venkatesh Ellaboina",
-    "occupation": "Graduate Student at Virginia Tech, Majoring in CS. Looking for Software Engineering Intern and Full-time opportunities.",
+    "occupation": "Graduate Student at Virginia Tech, Majoring in CS. Looking for Software Engineering Full-time opportunities.",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "As a web enthusiast, I've been working on web technologies for the past two years, having expertise from a multiple companies and development stacks. I've worked on every level of the software development life cycle, from scratch to production deployment. Aside from course work, I occasionally participate in hackathons, with one of my proudest achievements being picked as the top 8 participant among 150+ teams in the AWS Serverless hackathon. I spend my free time photographing and editing. You may also follow me on Instagram to see what I'm up to.  ",
+    "bio": "As a web enthusiast, I've been working on web technologies for the past two years, having expertise from a multiple companies and development stacks. I've worked on every level of the software development life cycle, from scratch to production deployment. Aside from course work, I occasionally participate in hackathons, with one of my proudest achievements being picked as the top 8th team among 150+ teams in the AWS Serverless hackathon. I spend my free time photographing and editing. You may also follow me on Instagram to see what I'm up to.  ",
     "contactmessage": "Get in touch with me.",
     "email": "venkatesh@vt.edu",
     "phone": "540-824-8711",
@@ -75,19 +75,11 @@
       },
       {
         "name": "Node.js",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Javascript",
         "level": "80%"
-      },
-      {
-        "name": "Salesforce Lightning",
-        "level": "75%"
-      },
-      {
-        "name": "Salesforce Apex",
-        "level": "65%"
       },
       {
         "name": "MySQL",
@@ -104,6 +96,14 @@
       {
         "name": "C/C++",
         "level": "80%"
+      },
+      {
+        "name": "Salesforce Lightning",
+        "level": "75%"
+      },
+      {
+        "name": "Salesforce Apex",
+        "level": "65%"
       }
     ]
   },
