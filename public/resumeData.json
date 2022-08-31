@@ -1,13 +1,13 @@
 {
   "main": {
     "name": "Venkatesh Ellaboina",
-    "occupation": "Graduate Student at Virginia Tech, Majoring in CS. Looking for Software Engineering Intern and Full-time opportunities.",
+    "occupation": "Graduate Student at Virginia Tech, Majoring in CS. Looking for Software Engineering Full-time opportunities.",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "I've been working on web technologies for the past two years as a web enthusiast, having expertise from a multiple companies and development stacks. I've worked on every level of the software development life cycle, from scratch to production deployment. Aside from course work, I occasionally participate in hackathons, with one of my proudest achievements being picked as one of the top five participants in the AWS Serverless hackathon.",
+    "bio": "I've been working on web technologies for the past two years, having expertise from multiple companies and development stacks. I've worked on every level of the software development life cycle, from scratch to production deployment. Aside from course work, I occasionally participate in hackathons, with one of my proudest achievements being picked as the top 8th participants among 150+ teams in the AWS Serverless hackathon.",
     "contactmessage": "Get in touch with me.",
-    "email": "venkatesh[at]vt[dot]edu",
-    "phone": "540[dash]824[dash]8711",
+    "email": "venkatesh@vt.edu",
+    "phone": "540-824-8711",
     "address": {
       "street": "200 Cedar Pointe Dr",
       "city": "Blacksburg",

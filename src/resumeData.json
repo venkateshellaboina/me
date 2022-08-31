@@ -4,10 +4,10 @@
     "occupation": "Graduate Student at Virginia Tech, Majoring in CS. Looking for Software Engineering Intern and Full-time opportunities.",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "As a web enthusiast, I've been working on web technologies for the past two years , having expertise from a multiple companies and development stacks. I've worked on every level of the software development life cycle, from scratch to production deployment. Aside from course work, I occasionally participate in hackathons, with one of my proudest achievements being picked as one of the top five participants in the AWS Serverless hackathon. I spend my free time photographing and editing. You may also follow me on Instagram to see what I'm up to.  ",
+    "bio": "As a web enthusiast, I've been working on web technologies for the past two years, having expertise from a multiple companies and development stacks. I've worked on every level of the software development life cycle, from scratch to production deployment. Aside from course work, I occasionally participate in hackathons, with one of my proudest achievements being picked as the top 8 participant among 150+ teams in the AWS Serverless hackathon. I spend my free time photographing and editing. You may also follow me on Instagram to see what I'm up to.  ",
     "contactmessage": "Get in touch with me.",
-    "email": "venkatesh[at]vt[dot]edu",
-    "phone": "540[dash]824[dash]8711",
+    "email": "venkatesh@vt.edu",
+    "phone": "540-824-8711",
     "address": {
       "street": "200 Cedar Pointe Dr",
       "city": "Blacksburg",
@@ -50,22 +50,22 @@
     ],
     "work": [
       {
-        "company": "Electronic Arts, India",
+        "company": "Electronic Arts Inc (EA), India",
         "title": "Software Engineer - 1 ",
         "years": "June 2019 - August 2021",
-        "description": "As a Full Stack Developer, I worked on a variety of projects. I worked on the creation of technologies that make game-playing a safe environment for everyone. Contributed to three separate projects, including React, Nodejs, Salesforce Lightning, Salesforce LWC, and Node.js and Salesforce APEX for the front end and Node.js and Salesforce APEX for the backend. Has hands-on expertise with Amazon Web Services (AWS)."
+        "description": "As a Full Stack Developer, I worked on multiple projects. I worked on the creation of technologies that make game-playing a safe environment for everyone. Contributed to three separate projects, including React, Nodejs, Salesforce Lightning, Salesforce LWC, and Node.js and Salesforce APEX for the front end and Node.js and Salesforce APEX for the backend. Has hands-on expertise with Amazon Web Services (AWS)."
       },
       {
         "company": "SS&C Eze, India",
         "title": "Software Engineering Intern",
         "years": "February 2019 - May 2019",
-        "description": "I was a member of the Connectivity Framework Team. Assisted in the creation of Adapters. A framework to make it easier for hedge funds to share their holdings with affiliated institutions. The major programming language was C#.Participated in training's and gained application architecture expertise to better comprehend the workings of a fin-tech product called Portfolio management system."
+        "description": "Assisted in the development of Adapters. A framework to make it easier for hedge funds to share their holdings with affiliated institutions. The major programming language was C#.Participated in training's and gained application architecture expertise to better comprehend the workings of a fin-tech product called Portfolio management system."
       },
       {
         "company": "Rauzr Inc, India",
         "title": "Full Stack Developer Intern",
         "years": "May 2018 - July 2018",
-        "description": "Using the MERN stack, I created a Listing Service for trainers and tutors. Developed the application end to end with 2 other developers. The features include Authorization, Authentication, creation of User interfaces, testing, development of Back-end APIs and Database management."
+        "description": "Using MERN stack, I created a Listing Service for trainers and tutors. Developed the application end to end with 2 other developers. The features include Authorization, Authentication, creation of User interfaces, testing, development of Back-end APIs and Database management."
       }
     ],
     "skills": [
